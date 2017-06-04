@@ -1,6 +1,6 @@
 
 ```
-URL：http://test.zeroxm0.cn/lib/index.php
+URL：http://123.206.190.212/lib/index.php
 ```
 访问方式：POST
 
@@ -44,3 +44,6 @@ URL：http://test.zeroxm0.cn/lib/index.php
 |101	   |参数缺失	 |
 |199        |未知错误|
 |200       |succeed	 |
+
+##### 微信号
+![image](./Qr_code.jpg)
